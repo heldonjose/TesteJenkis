@@ -1,0 +1,4 @@
+../virtual/lib/python3.6/site-packages/django/contrib/messages/__init__.py:1:1 'from django.contrib.messages.api import *' used; unable to detect undefined names
+../virtual/lib/python3.6/site-packages/django/contrib/messages/__init__.py:1:1 'django.contrib.messages.api.*' imported but unused
+../virtual/lib/python3.6/site-packages/django/contrib/messages/__init__.py:2:1 'from django.contrib.messages.constants import *' used; unable to detect undefined names
+../virtual/lib/python3.6/site-packages/django/contrib/messages/__init__.py:2:1 'django.contrib.messages.constants.*' imported but unused
